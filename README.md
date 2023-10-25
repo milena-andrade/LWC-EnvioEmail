@@ -12,5 +12,19 @@ Envio de Email Componente LWC
 
 
 
+
+
+
+
+
 ![image](https://github.com/milena-andrade/LWC-EnvioEmail/assets/81273891/8675741a-36ec-4b74-b717-748a40b14045)
+
+
+
+
+
+
+
+![image](https://github.com/milena-andrade/LWC-EnvioEmail/assets/81273891/bd5229d3-b88d-45c8-b180-673fbeb01ff4)
+
 
