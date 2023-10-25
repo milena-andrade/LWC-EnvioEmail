@@ -1,0 +1,9 @@
+<template>
+    <lightning-card title="Enviar Email">
+        <div class="slds-p-around_medium">
+            <lightning-input label="Endereço de Email" value={emailValue} onchange={handleEmailChange}></lightning-input>
+            <lightning-input label="Texto do E-mail" value={emailBody} onchange={handleBodyChange}></lightning-input>
+            <lightning-button label="Enviar Email" onclick={sendEmail}></lightning-button>
+        </div>
+    </lightning-card>
+</template>
